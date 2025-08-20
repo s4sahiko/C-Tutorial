@@ -182,5 +182,3 @@ For suggestions or queries, contact me on:
 
 If this project helped you, leave a ⭐ on GitHub and share it with others!
 
-```
-

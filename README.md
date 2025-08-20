@@ -177,8 +177,3 @@ For suggestions or queries, contact me on:
 * GitHub: [@s4sahiko](https://github.com/s4sahiko)
 
 ---
-
-## 🙌 Support
-
-If this project helped you, leave a ⭐ on GitHub and share it with others!
-

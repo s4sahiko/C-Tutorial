@@ -22,11 +22,12 @@ Welcome to the **C Programming Tutorial** repository! This project is designed t
 ```
 
 c-tutorial/
-├── 01\_hello\_world.c
-├── 02\_variables\_and\_datatypes.c
-├── 03\_input\_output.c
+├── 01_Intro
+├── 02_Variables
+├── 03_Data_Types
 ├── 04\_operators.c
-├── 05\_control\_statements.c
+├──
+05\_control\_statements.c
 ├── 06\_loops.c
 ├── 07\_functions.c
 ├── 08\_arrays.c

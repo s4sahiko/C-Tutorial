@@ -13,4 +13,12 @@ int main() {
     return 0;
 }
 
+/*
+Rules for Naming Variables in C:
 
+>Must begin with a letter or underscore (_)
+>Can contain letters, digits, and underscores
+>No spaces allowed
+>Case-sensitive (Age and age are different)
+>Cannot use C keywords (like int, for, etc.)
+*/

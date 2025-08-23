@@ -25,10 +25,22 @@ c-tutorial/
 ├── 01_Intro
 ├── 02_Variables
 ├── 03_Data_Types
-├── 04\_operators.c
-├──
-05\_control\_statements.c
-├── 06\_loops.c
+├── 04_operators.c
+├── 05_control_statements.c
+   ├──Decision_making_statement
+       ├── if
+       ├── if-else
+       ├── switch
+   ├──Looping statement
+       ├── for_loop
+       ├──while_loop
+       ├──do-while_loop
+   ├── Jump statement
+       ├──break
+       ├──continue
+       ├──goto
+       ├──return
+├── 06_
 ├── 07\_functions.c
 ├── 08\_arrays.c
 ├── 09\_strings.c
